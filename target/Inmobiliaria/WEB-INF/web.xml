@@ -1,0 +1,10 @@
+<web-app>
+    <display-name>Inmobiliaria</display-name>
+
+    <context-param>
+        <description>Ruta donde guardar las imagenes</description>
+        <param-name>image-path</param-name>
+        <param-value>/Users/santi/apache-tomcat-10.1.7/webapps/inmobiliaria_data</param-value>
+    </context-param>
+    
+</web-app>
